@@ -8,7 +8,8 @@ body{
    margin: 0px;
    padding: 0px; 
    /* border: 2px solid black; */
-   /* background: red; */
+   /* background: rgb(5, 230, 238); */
+   background-image: url("https://diesunddas.co.uk/wp-content/uploads/2022/01/calculator-photo-edited-1024x577.jpg");
 }
 
 .convertor-body{
@@ -20,7 +21,7 @@ body{
     transform:translate(-50%,-50%);
     box-shadow: 0px 0px 2px 1px #630606;
     border: 2px solid black;
-    /* background: red; */
+    background: rgb(5, 230, 238);
 }
 
 .convertor-title{
